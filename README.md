@@ -1,3 +1,3 @@
 # Text-to-Speech-convertor
 It converts user text into an audio.
-Author-Darshan Nama
+Author-Darshan Nama Coder
